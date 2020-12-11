@@ -1,0 +1,17 @@
+From                        To                             Train Name                     Seat Class
+------------------------------------------------------------------------------------------------------------------
+Dhaka			Chittagong			Shonar Bangla			First Class
+
+Dhaka			Sylhet			Parabat Express			First Class
+
+Dhaka			Chittagong			Shonar Bangla			First Class
+
+Dhaka			Chittagong			Shonar Bangla			First Class
+
+Dhaka			Khulna			Chitra Express			First Class
+
+Dhaka			Khulna			Chitra Express			First Class
+
+Dhaka			Sylhet			Parabat Express			First Class
+
+Dhaka			Chittagong			Shonar Bangla			First Class
